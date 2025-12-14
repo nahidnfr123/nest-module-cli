@@ -8,7 +8,7 @@ class NestJSGenerator {
   constructor() {
     this.config = {
       templatesDir: './templates',
-      outputDir: './src/modules',
+      outputDir: './src/app',
       templates: {
         module: { extension: 'module.ts', required: true },
         controller: { extension: 'controller.ts', required: true },

@@ -1,7 +1,8 @@
-// generator.config.js
+// generator.config.js\
+
 module.exports = {
   templatesDir: './templates',
-  outputDir: './src/modules',
+  outputDir: './src/app',
 
   // Define templates and their configurations
   templates: {
@@ -61,17 +62,17 @@ module.exports = {
 
   // Predefined modules for batch generation
   batchModules: [
-    'users',
-    'user_preferences',
-    'articles',
-    'checklists',
-    'categories',
-    'tags',
-    'comments',
-    'questions',
-    'answers',
-    'testimonials',
-    'roles',
-    'permissions',
+    // 'users',
+    // 'user_preferences',
+    // 'articles',
+    // 'checklists',
+    // 'categories',
+    // 'tags',
+    // 'comments',
+    // 'questions',
+    // 'answers',
+    // 'testimonials',
+    // 'roles',
+    // 'permissions',
   ],
 };
