@@ -26,12 +26,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nahidnfr123/nest-module.git"
+    "url": "https://github.com/nahidnfr123/nest-module-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/nahidnfr123/nest-module/issues"
+    "url": "https://github.com/nahidnfr123/nest-module-cli/issues"
   },
-  "homepage": "https://github.com/nahidnfr123/nest-module#readme",
+  "homepage": "https://github.com/nahidnfr123/nest-module-cli#readme",
   "engines": {
     "node": ">=14.0.0"
   },
